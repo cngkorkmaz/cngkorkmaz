@@ -4,11 +4,10 @@
 
 <h3>- 🌱 I’m currently learning Html, Css, JS, React.</h3>
 
-<h4>- 📫 How to reach me cngkorkmaz@gmail.com
-          https://www.linkedin.com/in/cngkorkmaz          
-          Instagram : @butikmarket_
-</h4>
+<h4>- 📫 How to reach me cngkorkmaz@gmail.com</h4>           
 
+<h4>https://www.linkedin.com/in/cngkorkmaz </h4>
+<h4>https://www.instagram.com/butikmarket_</h4>
 
 <!---
 cngkorkmaz/cngkorkmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
